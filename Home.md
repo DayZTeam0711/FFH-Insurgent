@@ -6,3 +6,5 @@ Welcome to the Redemption wiki! If you haven't already then we recommend you joi
 Whilst you are here, please make sure you read and understand the rules.
 
 ****Contents****
+
+• **Bases**
