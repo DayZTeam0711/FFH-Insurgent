@@ -52,7 +52,7 @@
 * Storage Slots: 500
 * Seats: 4
 
-
+![](https://de.share-your-photo.com/img/6b3ee34bed.png)
 
 > **Olga 24 / civilian sedan**
 * Storage Slots: 400
