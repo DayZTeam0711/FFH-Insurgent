@@ -13,3 +13,5 @@ Whilst you are here, please make sure you read and understand the rules.
 * [Base Raiding](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Base-Raiding)
 
 **Car Information**
+
+* [Car Support](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Car-Information)
