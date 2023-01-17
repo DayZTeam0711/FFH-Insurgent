@@ -15,3 +15,5 @@ Whilst you are here, please make sure you read and understand the rules.
 **Car Information**
 
 * [Car Support](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Car-Support)
+
+**Events**
