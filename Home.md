@@ -12,7 +12,7 @@ Whilst you are here, please make sure you read and understand the rules.
 * [Base Building](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Bases)
 * [Base Raiding](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Base-Raiding)
 
-**Car Information**
+**Vehicles**
 
 * [Car Support](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Car-Support)
 
