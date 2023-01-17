@@ -7,6 +7,8 @@ Whilst you are here, please make sure you read and understand the rules.
 
 ****Contents****
 
+***
+
 **Bases**
  
 * [Base Building](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Bases)
