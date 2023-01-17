@@ -4,3 +4,5 @@ GerNightmareGaming-DayZ wiki!
 
 Welcome to the Redemption wiki! If you haven't already then we recommend you join our [Discord](https://discord.gg/ZChXPUxAct).
 Whilst you are here, please make sure you read and understand the rules.
+
+****Contents****
