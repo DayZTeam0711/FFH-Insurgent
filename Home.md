@@ -9,7 +9,7 @@
 
 ### Bases
  
-* [Base Building](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Bases)
+* [Base Building](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Base-Building)
 * [Base Raiding](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Base-Raiding)
 
 ### Vehicles
