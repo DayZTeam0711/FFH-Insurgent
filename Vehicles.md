@@ -34,7 +34,7 @@
 * Storage Slots: 500
 * Seats: 4
 
-![](https://i.postimg.cc/Bn1GSXt1/Screenshot-20230117-162605.png)
+![](https://i.ibb.co/wQNchgB/Screenshot-20230117-162605.png)
 
 > **Land Rover Defender**
 * Storage Slots: 600
