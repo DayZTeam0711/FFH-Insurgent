@@ -41,3 +41,9 @@
 * Seats: 4
 
 ![](https://i.postimg.cc/XNyhBT4T/Screenshot-20230117-162401.png)
+
+> **Land Rover Range Rover Supercharged**
+* Storage Slots: 500
+* Seats: 4
+
+![](https://i.postimg.cc/WzPQ1nFD/Screenshot-20230117-162236.png)
