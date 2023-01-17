@@ -19,6 +19,10 @@ You can find garages on the traders and distributed on the map that you can see 
 
 If you have ideas for garage spots, feel free to post them in the dedicated discord channel.
 
+> Key's for modded Vehicles
+
+If you buy a car, please remember to buy an extra key for the modded vehicles for 5k at the auto trader.
+
 ### Vehicle FAQ Ger
 
 > **Auto Support**
@@ -38,3 +42,7 @@ Parkt euer Auto bitte in die dafür vorgesehenen Garagen, um Laggs und Bugs zu v
 Garagen findet ihr an den Tradern und verteilt auf der Map, die ihr mit der Taste M einsehen könnt.
 
 Falls ihr Ideen für Garagen Spots habt, könnt ihr sie gerne in den dafür vorgesehenen Discord Channel schreiben.
+
+> Schlüssel für modded Fahrzeuge
+
+Wenn du ein Auto kaufst, denk bitte dran für die modded Fahrzeuge einen extra schlüssel für 5k beim Auto Trader zu kaufen.
