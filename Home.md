@@ -16,6 +16,7 @@ Whilst you are here, please make sure you read and understand the rules.
 
 **Vehicles**
 
-* [Car Support](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Car-Support)
+* [Vehicle Support](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Vehicle-Support)
+* [Vehicles](https://github.com/GerNightmareGaming/GerNightmareGaming-DayZ/wiki/Vehicles)
 
 **Events**
