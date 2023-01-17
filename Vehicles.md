@@ -34,7 +34,7 @@
 * Storage Slots: 500
 * Seats: 4
 
-![](https://i.ibb.co/wQNchgB/Screenshot-20230117-162605.png)
+
 
 > **Land Rover Defender**
 * Storage Slots: 600
@@ -46,7 +46,7 @@
 * Storage Slots: 500
 * Seats: 4
 
-
+![](https://de.share-your-photo.com/img/a4851387c4.png)
 
 > **BMW 7er**
 * Storage Slots: 500
