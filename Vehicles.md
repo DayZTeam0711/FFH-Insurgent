@@ -46,7 +46,7 @@
 * Storage Slots: 500
 * Seats: 4
 
-![](https://i.postimg.cc/WzPQ1nFD/Screenshot-20230117-162236.png)
+
 
 > **BMW 7er**
 * Storage Slots: 500
