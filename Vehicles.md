@@ -59,3 +59,21 @@
 * Seats: 4
 
 ![](https://de.share-your-photo.com/img/c7eb4c12ed.png)
+
+> **Sarka 120 / Civilian sedan2**
+* Storage Slots: 300
+* Seats: 4
+
+![](https://de.share-your-photo.com/img/ea8e66a9b1.png)
+
+> **Gunter 2**
+* Storage Slots: 300
+* Seats: 4
+
+![](https://de.share-your-photo.com/img/ed650baa78.png)
+
+> **Ada 4x4**
+* Storage Slots: 300
+* Seats: 4
+
+![](https://de.share-your-photo.com/img/80559689ce.png)
